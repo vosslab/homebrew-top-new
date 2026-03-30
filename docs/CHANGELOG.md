@@ -1,3 +1,14 @@
+## 2026-03-29
+
+### Additions and New Features
+- Added `docs/USAGE.md` with CLI flags table, output description, and recency source details.
+- Added `docs/INSTALL.md` with prerequisites, setup steps, and optional local cask clone instructions.
+
+### Fixes and Maintenance
+- Rewrote `README.md` to be short: one-paragraph description, quick start with correct
+  `source source_me.sh && python3` command, and links to docs.
+- Removed hardcoded interpreter path from `README.md` quick start.
+
 ## 2026-03-01
 
 ### Additions and New Features
